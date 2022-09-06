@@ -1,4 +1,0 @@
-This is sample testing
-new line
-third line
-fourth line
